@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.1.0.apk",
-  "sha256": "71F08CBF7939902E409206D65F3DD8BE54AD1684B5CAE57527282D23058BA711",
-  "notes": "Добавлен второй профиль Haier 50 Smart TV S2, переключение TCL/Haier и Wake-on-WLAN."
+  "versionCode": 5,
+  "versionName": "1.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.2.0.apk",
+  "sha256": "BBD32728EEE7CD1E8EACBA2600C6D13BDF5F564038FC5E9B1B5705A194FC387E",
+  "notes": "Новый современный интерфейс, четыре настраиваемые кнопки приложений и обновление доступно до сопряжения с телевизором."
 }
