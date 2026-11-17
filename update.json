@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.0",
-  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.2.0.apk",
-  "sha256": "BBD32728EEE7CD1E8EACBA2600C6D13BDF5F564038FC5E9B1B5705A194FC387E",
-  "notes": "Новый современный интерфейс, четыре настраиваемые кнопки приложений и обновление доступно до сопряжения с телевизором."
+  "versionCode": 6,
+  "versionName": "1.2.1",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.2.1.apk",
+  "sha256": "95697C6B191D177C7EEF6C262AA06CA9A51BFEAE1AB2283E479CC6AE983BA429",
+  "notes": "Красивые кнопки Update и Retry, заметное включение ТВ и усиленный Wake-on-LAN с автоматическим переподключением."
 }
