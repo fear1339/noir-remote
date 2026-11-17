@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "1.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.0.0.apk",
+  "sha256": "D893EBB36C23E89A481107523B963C6723EFEB9E7A99D57FF00C227785635D2E",
+  "notes": "Первая стабильная версия: Android TV Remote v2, клавиатура и Wake-on-LAN."
+}
