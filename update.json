@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.3.1.apk",
-  "sha256": "9B9ED5E79E5FB72B88BC8171B63F8CCCC6EC2D2FED9E12587378F8B6277B503A",
-  "notes": "Zona и остальные быстрые кнопки теперь запускают приложения напрямую, без браузера. Добавлены красивые плитки с иконкой и названием приложения."
+  "versionCode": 10,
+  "versionName": "1.3.2",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.3.2.apk",
+  "sha256": "0246B8E23A5845AA282FE07D4BD6F349A59C9202562DA4AABBD3DB36CEBFF4CC",
+  "notes": "В профиль ТВ добавлен выбор только поддерживаемых платформ: Android/Google/AOSP, YaOS с APK, Салют ТВ с APK и ADB, Fire TV с APK и ADB. Старые профили переносятся автоматически."
 }
