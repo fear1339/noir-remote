@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.2",
-  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.2.2.apk",
-  "sha256": "327C592B569BEA9DEB34996B1B35F105207F1FCAB2F700402B73A11C25C39F44",
-  "notes": "Исправлено сохранение MAC-адреса для включения ТВ; добавлено отдельное сохранение IP и MAC без повторного сопряжения."
+  "versionCode": 8,
+  "versionName": "1.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.3.0.apk",
+  "sha256": "02ACF69783FE78E45F6036AE73A6951A29552913925EB23F79A84A6F6617CEE0",
+  "notes": "Универсальные профили: добавляйте любое количество Android TV/Google TV, задавайте название, IP и MAC; TCL и Haier мигрируют автоматически."
 }
