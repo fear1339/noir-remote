@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.3.0.apk",
-  "sha256": "02ACF69783FE78E45F6036AE73A6951A29552913925EB23F79A84A6F6617CEE0",
-  "notes": "Универсальные профили: добавляйте любое количество Android TV/Google TV, задавайте название, IP и MAC; TCL и Haier мигрируют автоматически."
+  "versionCode": 9,
+  "versionName": "1.3.1",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.3.1.apk",
+  "sha256": "9B9ED5E79E5FB72B88BC8171B63F8CCCC6EC2D2FED9E12587378F8B6277B503A",
+  "notes": "Zona и остальные быстрые кнопки теперь запускают приложения напрямую, без браузера. Добавлены красивые плитки с иконкой и названием приложения."
 }
