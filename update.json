@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.2.1.apk",
-  "sha256": "95697C6B191D177C7EEF6C262AA06CA9A51BFEAE1AB2283E479CC6AE983BA429",
-  "notes": "Красивые кнопки Update и Retry, заметное включение ТВ и усиленный Wake-on-LAN с автоматическим переподключением."
+  "versionCode": 7,
+  "versionName": "1.2.2",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.2.2.apk",
+  "sha256": "327C592B569BEA9DEB34996B1B35F105207F1FCAB2F700402B73A11C25C39F44",
+  "notes": "Исправлено сохранение MAC-адреса для включения ТВ; добавлено отдельное сохранение IP и MAC без повторного сопряжения."
 }
