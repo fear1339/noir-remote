@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.4.0.apk",
-  "sha256": "34B2DBADCC77FD9A6A90798EA3F35F73525D577CEECC674E86AB1DE79C358282",
-  "notes": "Автоматический поиск Android TV/Google TV/TCL/Haier по стандартным портам. При единственном найденном ТВ сопряжение запускается автоматически; IP и, когда система разрешает, MAC определяются без ручного ввода."
+  "versionCode": 12,
+  "versionName": "1.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/fear1339/noir-remote/main/NOIR-Remote-1.5.0.apk",
+  "sha256": "B4B2A63F555BD8E06C156FF03C5B2C095717B3AB4377B62537CA80660B2D6C89",
+  "notes": "Добавляйте и удаляйте горячие кнопки без ограничения четырьмя позициями. NOIR TV 1.2 передаёт телефону список реально установленных приложений и их настоящие иконки."
 }
